@@ -7,6 +7,6 @@
   "keywords": ["nlp", "parser", "dsl", "isomorphic"],
   "author": "xeplr",
   "license": "MIT",
-  "repository": { "type": "git", "url": "https://github.com/xeplr/xeplr" },
+  "repository": { "type": "git", "url": "https://github.com/Xeplr/xeplr-nlp-parser" },
   "publishConfig": { "access": "public" }
 }
