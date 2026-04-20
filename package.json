@@ -1,0 +1,12 @@
+{
+  "name": "@xeplr/nlp-parser",
+  "version": "1.0.0",
+  "description": "Isomorphic NLP rule parser — parses a simple DSL into structured action objects",
+  "main": "index.js",
+  "files": ["index.js", "lib/"],
+  "keywords": ["nlp", "parser", "dsl", "isomorphic"],
+  "author": "xeplr",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/xeplr/xeplr" },
+  "publishConfig": { "access": "public" }
+}
