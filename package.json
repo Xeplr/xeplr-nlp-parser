@@ -1,6 +1,6 @@
 {
   "name": "@xeplr/nlp-parser",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Isomorphic NLP rule parser — parses a simple DSL into structured action objects",
   "main": "index.js",
   "files": [
